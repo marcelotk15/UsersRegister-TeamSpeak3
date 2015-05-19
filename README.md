@@ -1,5 +1,5 @@
-# UsersRegister-Teamspeak3
-Automatic script for auto register user for Teamspeak3
+# UsersRegister-TeamSpeak3
+Automatic script for auto register user for TeamSpeak3
 
 This source use TeamSpeak 3 PHP Framework by Planet TeamSpeak. More http://addons.teamspeak.com/directory/addon/result/TeamSpeak-3-PHP-Framework.html
 
