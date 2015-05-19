@@ -7,7 +7,7 @@ I use this script in my server with ubuntu cron. To this is simple, download the
 
 In my case is:
 `*/5 * * * * php /home/ts3server/ts3register/register.php`
-The script run every 5 minutes.
+The script run every 5 in 5 minutes.
 
 
 Logical that you needs the installed php, if you have not installed: 
